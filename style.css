@@ -1,0 +1,163 @@
+*{margin: auto;}
+.main {
+    height: auto;
+    width: 1370px;
+}
+div.image{
+    height: 70px;
+    width: 1500px;
+    background-color: rgb(26, 135, 230);
+    text-align: center;
+
+ }
+ div.gm{
+     position: absolute;
+     margin: 15px 0px 0px 115px;
+ }
+.topnav{
+    margin: -65px 0px 0px 600px;
+    position: absolute;
+}
+
+div.sx{
+    height: 200px;
+    width: 1370px;
+}
+div.sg{
+    margin: 40px 0px 0px 550px;
+}
+    div.sl{
+        
+        margin: 45px -25px -60px  -180px;
+        width: 610px;
+        height: 320px;
+        background-color: blue;
+        text-align: center;
+    position: relative;
+    padding: 10px;
+    width: 560px;
+
+    }
+    div.so{
+        height: 350px;
+        width: 1100px;
+        position: relative;
+    }
+div.ab{
+    margin: 80px 0px 0px 40px;
+    height: 40px;
+    width: 300;
+    color: darkseagreen;
+}
+div.ae{
+    margin: 10px 20px 50px 120px;
+    width: 250px;
+    height:170px;
+    background-color:rgb(245, 244, 244);
+    float: left;
+    text-align: center;
+}
+div.rt{
+    float: left;
+    margin: -80px 0px 0px 550px;
+
+}
+div.hf{
+float: left;
+    margin: -40px 0px 0px 600px;
+
+}
+div.as{
+    margin:10px 10px 20px 10px;
+    width: 174px;
+    height: 125px;
+    float: left;
+    
+}
+div.ik{
+    width: 200px;
+    height: 70px;
+    margin: -30px 180px -10px 990px;
+    float: left;
+    position: relative;
+}
+div.ul{
+    width: 170px;
+    height: 50px; 
+    margin: -1px 0px 0px 1000px;
+    float: left;
+    text-align: center;
+    padding: -1px;
+    
+}
+div.we{
+    margin: 5px 0px 0px 100px;
+    float: left;
+
+}
+div.hj{
+    margin:5px 50px 0px 100px;
+}
+.hu {
+    color:rgba(69, 75, 97, 0.952);
+    font-size:large;
+    padding: 30px;
+    line-height: 25px;
+    margin-top: 10px;
+    margin-left: -25px;
+  }
+  div.tx{
+      background-color:rgb(241, 235, 235);
+    margin: 10px 0px 1px 110px;
+    width: 280px;
+    height: 69px;
+    float: left;
+
+  }
+div.ti{
+    margin: 550px 0px 0px 500px;
+      background-color:rgb(241, 235, 235);
+      width: 280px;
+      height: 80px;
+    
+  }
+  div.tp{
+      margin: -20px 10px 0px 110px;
+      background-color: rgb(241, 235, 235);
+      width: 280px;
+      height: 75px;
+  }
+  div.tt{
+      margin: -75px 70px 140px 500px ;
+      background-color: rgb(241, 235, 235);
+      width: 280px; 
+      height: 73px;
+
+  }
+div.gi{
+    float: left;
+
+    margin: 110px 1900px 0px 110px;
+    width: 1300PX;
+    height: 500px;
+    background-color: black;
+
+}
+div.al{
+    margin: 230px 20px 60px -900px;
+    float: left;
+    background-color: black;
+    width: 900px;
+    height: 320px;
+
+}
+
+
+
+
+
+
+
+  
+
+
